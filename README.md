@@ -31,6 +31,5 @@
 | 01  |     [Email Subscribe](./mini-projects/email-subscribe/)      | [Code](./mini-projects/email-subscribe/index.html)  |
 | 02  |     [Pricing Cards](./mini-projects/pricing-cards/)      | [Code](./mini-projects/pricing-cards/index.html)  |
 | 03  |     [Product Modal](./mini-projects/product-modal/)      | [Code](./mini-projects/product-modal/index.html)  |
-
-
+| 04  |     [Image Gallery](./mini-projects/image-gallery/)      | [Code](./mini-projects/image-gallery/index.html)  |
 
