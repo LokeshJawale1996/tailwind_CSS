@@ -6,7 +6,7 @@
 | :-: | :----------------------------: | :-------: |
 | 01  |       [First Example](./tailwind-basics/01-utility-first/)      | [Code](./tailwind-basics/01-utility-first/index.html)  |
 | 02  |     [colors](./tailwind-basics/02-colors/)    | [Code](./tailwind-basics/02-colors/index.html)  |
-| 03  |    [container spacing](./tailwind-basics/03-container-spacing/))     | [Code](./tailwind-basics/03-container-spacing/index.html)  |
+| 03  |    [container spacing](./tailwind-basics/03-container-spacing/)    | [Code](./tailwind-basics/03-container-spacing/index.html)  |
 | 04  |  [typography](./tailwind-basics/04-typography/)  | [Code](./tailwind-basics/04-typography/index.html)  |
 | 05  |  [sizing](./tailwind-basics/05-sizing/)  | [Code](./tailwind-basics/05-sizing/index.html)  |
 | 06  |  [layout position](./tailwind-basics/06-layout-position/)  | [Code](./tailwind-basics/06-layout-position/index.html)  |
@@ -29,3 +29,7 @@
 |  #  |            project name             | Source Code |
 | :-: | :----------------------------: | :-------: |
 | 01  |     [Email Subscribe](./mini-projects/email-subscribe/)      | [Code](./mini-projects/email-subscribe/index.html)  |
+| 01  |     [Pricing Cards](./mini-projects/pricing-cards/)      | [Code](./mini-projects/pricing-cards/index.html)  |
+
+
+
