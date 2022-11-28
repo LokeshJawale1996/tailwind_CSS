@@ -22,3 +22,10 @@
 | 16  |  [animation](./tailwind-basics/16-animation/)  | [Code](./tailwind-basics/16-animation/index.html)  |
 | 17  |  [customization](./tailwind-basics/17-customization)  | [Code](./tailwind-basics/17-customization/index.html)  |
 | 18  |  [dark-mode](./tailwind-basics/18-dark-mode/)  | [Code](./tailwind-basics/18-dark-mode/index.html)  |
+
+
+## Mini Projects
+
+|  #  |            project name             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |     [Email Subscribe](./mini-projects/email-subscribe/)      | [Code](./mini-projects/email-subscribe/index.html)  |
