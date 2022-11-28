@@ -29,7 +29,8 @@
 |  #  |            project name             | Source Code |
 | :-: | :----------------------------: | :-------: |
 | 01  |     [Email Subscribe](./mini-projects/email-subscribe/)      | [Code](./mini-projects/email-subscribe/index.html)  |
-| 01  |     [Pricing Cards](./mini-projects/pricing-cards/)      | [Code](./mini-projects/pricing-cards/index.html)  |
+| 02  |     [Pricing Cards](./mini-projects/pricing-cards/)      | [Code](./mini-projects/pricing-cards/index.html)  |
+| 03  |     [Product Modal](./mini-projects/product-modal/)      | [Code](./mini-projects/product-modal/index.html)  |
 
 
 
