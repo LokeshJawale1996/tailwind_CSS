@@ -32,4 +32,6 @@
 | 02  |     [Pricing Cards](./mini-projects/pricing-cards/)      | [Code](./mini-projects/pricing-cards/index.html)  |
 | 03  |     [Product Modal](./mini-projects/product-modal/)      | [Code](./mini-projects/product-modal/index.html)  |
 | 04  |     [Image Gallery](./mini-projects/image-gallery/)      | [Code](./mini-projects/image-gallery/index.html)  |
+| 05  |     [Login Modal](./mini-projects/login-modal/)      | [Code](./mini-projects/login-modal/index.html)  |
+
 
