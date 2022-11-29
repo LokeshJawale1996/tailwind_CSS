@@ -35,3 +35,9 @@
 | 05  |     [Login Modal](./mini-projects/login-modal/)      | [Code](./mini-projects/login-modal/index.html)  |
 
 
+## Website Projects
+
+|  #  |            project name             | Source Code |
+| :-: | :----------------------------: | :-------: |
+| 01  |     [Clipboard](./website-projects/clipboard/clipboard/)      | [Code](./website-projects/clipboard/clipboard/index.html)  |
+
