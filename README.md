@@ -39,5 +39,5 @@
 
 |  #  |            project name             | Source Code |
 | :-: | :----------------------------: | :-------: |
-| 01  |     [Clipboard](./website-projects/clipboard/clipboard/)      | [Code](./website-projects/clipboard/clipboard/index.html)  |
+| 01  |     [Clipboard](./website-projects/clipboard/clipboard/)      | [Code](./website-projects/clipboard/clipboard/index.html)  | [Live](https://clipboard-loki.netlify.app/) |
 
