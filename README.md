@@ -39,5 +39,5 @@
 
 |  #  |            project name             | Source Code |
 | :-: | :----------------------------: | :-------: |
-| 01  |     [Clipboard](./website-projects/clipboard/clipboard/index.html)      | [Live Demo](https://clipboard-loki.netlify.app/)  
-
+| 01  |     [Clipboard](./website-projects/clipboard/clipboard/index.html)      | [Live Demo](https://clipboard-loki.netlify.app/) |  
+| 02  |     [Testimonial Grid](./website-projects/testimonial-grid/index.html)      | [Live Demo](https://loki-testimonial-template.netlify.app/)  
