@@ -40,4 +40,6 @@
 |  #  |            project name             | Source Code |
 | :-: | :----------------------------: | :-------: |
 | 01  |     [Clipboard](./website-projects/clipboard/clipboard/index.html)      | [Live Demo](https://clipboard-loki.netlify.app/) |  
-| 02  |     [Testimonial Grid](./website-projects/testimonial-grid-template/index.html)      | [Live Demo](https://loki-testimonial-template.netlify.app/)  
+| 02  |     [Testimonial Grid](./website-projects/testimonial-grid-template/index.html)      | [Live Demo](https://loki-testimonial-template.netlify.app/) |
+| 03  |     [Loopstudios](./website-projects/loopstudios/index.html)      | [Live Demo](https://loki-loopstudios.netlify.app/)  
+
