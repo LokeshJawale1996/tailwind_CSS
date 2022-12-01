@@ -41,5 +41,7 @@
 | :-: | :----------------------------: | :-------: |
 | 01  |     [Clipboard](./website-projects/clipboard/clipboard/index.html)      | [Live Demo](https://clipboard-loki.netlify.app/) |  
 | 02  |     [Testimonial Grid](./website-projects/testimonial-grid-template/index.html)      | [Live Demo](https://loki-testimonial-template.netlify.app/) |
-| 03  |     [Loopstudios](./website-projects/loopstudios/index.html)      | [Live Demo](https://loki-loopstudios.netlify.app/)  
-| 04  |     [Shortly](./website-projects/shortly/index.html)      | [Live Demo](https://loki-shortly.netlify.app/)  
+| 03  |     [Loopstudios](./website-projects/loopstudios/index.html)      | [Live Demo](https://loki-loopstudios.netlify.app/)  |
+| 04  |     [Shortly](./website-projects/shortly/index.html)      | [Live Demo](https://loki-shortly.netlify.app/) |
+| 05  |     [Fylo](./website-projects/fylo/index.html)      | [Live Demo](https://loki-fylo-website.netlify.app/)  |
+
